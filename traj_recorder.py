@@ -21,7 +21,6 @@ import rospy
 import actionlib
 import random
 
-# CSV_name = 'traj_STOMP_occ3.csv'
 CSV_name = './data/test.csv'
 TOPIC_name = '/move_pipeline/calculated_trajectory'
 
